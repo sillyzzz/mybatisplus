@@ -12,3 +12,8 @@ spring:
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#  global-config:
+#  #设置全局配置
+#   db-config:
+#     table-prefix: t_
+
